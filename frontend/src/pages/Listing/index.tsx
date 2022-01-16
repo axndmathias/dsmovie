@@ -6,6 +6,7 @@ import { MoviePage } from "types/movie";
 import { BASE_URL } from "utils/requests";
 
 function Listing() {
+
   const [pageNumber, setPageNumber] = useState(0);
 
   const [page, setPage] = useState<MoviePage>({
@@ -29,6 +30,9 @@ function Listing() {
       });
   }, [pageNumber]);
 
+  const handlePageChange = (newPageNumber : number) => {
+    setPageNumber(newPageNumber);
+  }
   // forma errada
   //  axios.get('https://axnd-dsmovie.herokuapp.com/movies?size=12&page=0')
   // axios.get(`${BASE_URL}/movies?size=12&page=0`)
@@ -38,7 +42,7 @@ function Listing() {
 
   return (
     <>
-      <Pagination />
+      <Pagination page={page} onChange={handlePageChange}/>
       <div className="container">
         <div className="row">
           {page.content.map((movie) => (
