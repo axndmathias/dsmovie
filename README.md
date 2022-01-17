@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +15,7 @@
 
 <p align="center">
 
-  <img alt="DSMOVIE" src="" width="100%">
+  <img alt="DSMOVIE" src="https://user-images.githubusercontent.com/8337562/149840366-425b5624-23fa-4271-8d0f-7d16f3d76a2b.png" width="100%">
 </p>
 
 <p align="center">
