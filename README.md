@@ -1,12 +1,12 @@
 
 
 <p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bibliotecas">Libraries</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#licença">License</a>
 </p>
 
 <p align="center">
@@ -31,16 +31,16 @@
     </a>
 </p>
 
-## Projeto
+## Project
 
-DSMovie é uma aplicação full stack web desenvolvida durante a Semana Spring React pela [DevSuperior - Escola de programação](https://devsuperior.com.br).
+DSMovie is a full stack web application developed during Spring React Week by [DevSuperior - Escola de programação](https://devsuperior.com.br).
 
-A aplicação consiste em uma lista de filmes onde os usuários classificam cada filme identificando-se com o seus respectivos e-mails,e inserindo notas de 1 a 5. A classificação do filme, assim como a quantidade de avaliações são contabilizadas e apresentadas aos usuários.
+The application consists of a list of movies where users rate each movie by identifying themselves with their email address and entering scores from 1 to 5. The rating of the movie, as well as the number of reviews, are counted and presented to users.
 
-BackEnd hospedado no Heroku e FrontEnd no NetliFly.
+Back-end and Front-end using Heroku and Netlify.
 
-## Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## Tecnologies
+This project was developed using the following technologies:
 
 Backend
 - Java
@@ -62,21 +62,22 @@ Frontend
     
 ## Layout
 
-Você pode visualizar o layout do projeto através    [desse link] https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie
+You can view the project layout
+[desse link] https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie
 
-## Bibliotecas
+## Libraries
 
 - [Google Fonts](https://fonts.google.com/)
 
 
 ## Demo
 
-Demostração da aplicação web
+Web application demo
 https://nowdsmovie.netlify.app/
 
-## Licença
+## License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+This project is under the MIT license. Veja o arquivo [LICENSE](.github/LICENSE.md).
 
 <br>
 <p align="center">Feito com ♥ by axndmathias</p>
